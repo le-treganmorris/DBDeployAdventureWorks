@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AdventureWorks</id>
+    <version>1.0.0.1</version>
+    <authors>Tim Regan-Morris</authors>
+    <description>Package for DB Deployment</description>
+  </metadata>
+  <files>
+    <file src="\bin\Release\AdventureWorks.dacpac" target="Content" />
+    <file src="\bin\Release\Deploy.ps1" />
+  </files>
+</package>

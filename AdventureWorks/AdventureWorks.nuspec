@@ -8,6 +8,5 @@
   </metadata>
   <files>
     <file src="\bin\Release\AdventureWorks.dacpac" target="Content" />
-    <file src="\bin\Release\Deploy.ps1" />
   </files>
 </package>

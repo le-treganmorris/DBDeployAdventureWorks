@@ -273,10 +273,15 @@
     <Build Include="Production\XMLSchemaCollections\ProductDescriptionSchemaCollection.sql" />
     <Build Include="Sales\XMLSchemaCollections\StoreSurveySchemaCollection.sql" />
     <Build Include="ExtendedProperties.sql" />
+    <Build Include="Sales\Tables\Table1.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="AdventureWorks.nuspec" />
     <None Include="AdventureWorks_Dev.publish.xml" />
+    <None Include="AdventureWorks_Test.publish.publish.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="AdventureWorks.refactorlog" />
   </ItemGroup>
   <Import Project="..\packages\OctoPack.3.0.71\tools\OctoPack.targets" Condition="Exists('..\packages\OctoPack.3.0.71\tools\OctoPack.targets')" />
   <Target Name="EnsureOctoPackImported" BeforeTargets="BeforeBuild" Condition="'$(OctoPackImported)' == ''">

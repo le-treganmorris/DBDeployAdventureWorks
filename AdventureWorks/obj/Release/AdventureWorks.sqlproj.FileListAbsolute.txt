@@ -1,5 +1,4 @@
 C:\Git\DBDeployAdventureWorks\AdventureWorks\bin\Release\AdventureWorks.dacpac
-C:\Git\DBDeployAdventureWorks\AdventureWorks\bin\Release\Deploy.ps1
 C:\Git\DBDeployAdventureWorks\AdventureWorks\bin\Release\AdventureWorks.dll
 C:\Git\DBDeployAdventureWorks\AdventureWorks\bin\Release\AdventureWorks.pdb
 C:\Git\DBDeployAdventureWorks\AdventureWorks\obj\Release\Model.xml

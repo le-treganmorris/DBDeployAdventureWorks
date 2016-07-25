@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [Person].[Person] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[ufnGetContactInformation] (Function)
+       [HumanResources].[vEmployee] (View)
+       [HumanResources].[vEmployeeDepartment] (View)
+       [HumanResources].[vEmployeeDepartmentHistory] (View)
+       [Person].[vAdditionalContactInfo] (View)
+       [Purchasing].[vVendorWithContacts] (View)
+       [Sales].[vIndividualCustomer] (View)
+       [Sales].[vPersonDemographics] (View)
+       [Sales].[vSalesPerson] (View)
+       [Sales].[vSalesPersonSalesByFiscalYears] (View)
+       [Sales].[vStoreWithContacts] (View)
+       [dbo].[uspGetEmployeeManagers] (Procedure)
+       [dbo].[uspGetManagerEmployees] (Procedure)

@@ -274,6 +274,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="AdventureWorks.nuspec" />
+    <None Include="AdventureWorks.publish.xml" />
+    <None Include="AdventureWorks_DefaultProfile.publish.publish.xml" />
   </ItemGroup>
   <Import Project="..\packages\OctoPack.3.0.71\tools\OctoPack.targets" Condition="Exists('..\packages\OctoPack.3.0.71\tools\OctoPack.targets')" />
   <Target Name="EnsureOctoPackImported" BeforeTargets="BeforeBuild" Condition="'$(OctoPackImported)' == ''">

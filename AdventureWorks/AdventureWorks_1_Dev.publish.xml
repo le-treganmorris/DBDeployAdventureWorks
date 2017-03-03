@@ -6,5 +6,6 @@
     <DeployScriptFileName>AdventureWorks_Dev.sql</DeployScriptFileName>
     <TargetConnectionString>Data Source=LEUKTGHTSQL03.dev.lizearle.org\sql02;Integrated Security=True;Pooling=False</TargetConnectionString>
     <ProfileVersionNumber>1</ProfileVersionNumber>
+    <BlockOnPossibleDataLoss>False</BlockOnPossibleDataLoss>
   </PropertyGroup>
 </Project>

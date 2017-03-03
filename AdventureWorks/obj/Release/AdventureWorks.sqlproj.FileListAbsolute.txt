@@ -6,9 +6,5 @@ C:\Git\DBDeployAdventureWorks\AdventureWorks\obj\Release\AdventureWorks.pdb
 C:\Git\DBDeployAdventureWorks2\AdventureWorks\bin\Release\AdventureWorks.dacpac
 C:\Git\DBDeployAdventureWorks2\AdventureWorks\bin\Release\AdventureWorks.dll
 C:\Git\DBDeployAdventureWorks2\AdventureWorks\bin\Release\AdventureWorks.pdb
-C:\Git\DBDeployAdventureWorks2\AdventureWorks\obj\Release\Model.xml
-C:\Git\DBDeployAdventureWorks2\AdventureWorks\obj\Release\refactor.xml
-C:\Git\DBDeployAdventureWorks2\AdventureWorks\obj\Release\postdeploy.sql
-C:\Git\DBDeployAdventureWorks2\AdventureWorks\obj\Release\predeploy.sql
 C:\Git\DBDeployAdventureWorks2\AdventureWorks\obj\Release\AdventureWorks.dll
 C:\Git\DBDeployAdventureWorks2\AdventureWorks\obj\Release\AdventureWorks.pdb

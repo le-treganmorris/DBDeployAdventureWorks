@@ -276,7 +276,7 @@
     <Build Include="Sales\XMLSchemaCollections\StoreSurveySchemaCollection.sql" />
     <Build Include="ExtendedProperties.sql" />
     <Build Include="Sales\Tables\Table1.sql" />
-    <Build Include="Sales\Tables\_TestTable1.sql" />
+    <Build Include="Sales\Tables\_testtable2.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="AdventureWorks.nuspec" />

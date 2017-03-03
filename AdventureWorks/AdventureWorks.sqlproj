@@ -276,8 +276,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="AdventureWorks.nuspec" />
-    <None Include="AdventureWorks_Dev.publish.xml" />
-    <None Include="AdventureWorks_Test.publish.publish.xml" />
+    <None Include="AdventureWorks_1_Dev.publish.xml" />
+    <None Include="AdventureWorks_2_Test.publish.xml" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="AdventureWorks.refactorlog" />

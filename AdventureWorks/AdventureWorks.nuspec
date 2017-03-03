@@ -8,6 +8,6 @@
   </metadata>
   <files>
     <file src="\bin\Release\AdventureWorks.dacpac" target="Content" />
-    <file src="AdventureWorks_Dev.publish.xml" target="Content" />
+    <file src="AdventureWorks_1_Dev.publish.xml" target="Content" />
   </files>
 </package>

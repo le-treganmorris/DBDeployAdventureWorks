@@ -279,6 +279,7 @@
     <Build Include="Sales\Tables\Table1.sql" />
     <Build Include="Sales\Tables\_testtable2.sql" />
     <Build Include="Sales\Tables\_testtable3.sql" />
+    <Build Include="Sales\Tables\_testtable4.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="AdventureWorks.nuspec" />

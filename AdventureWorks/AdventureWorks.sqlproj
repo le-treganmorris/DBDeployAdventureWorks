@@ -75,6 +75,7 @@
     <DefaultFilegroup>PRIMARY</DefaultFilegroup>
     <CreateProjectFromDatabaseCompleted>True</CreateProjectFromDatabaseCompleted>
     <DacDescription>Test version 1</DacDescription>
+    <DacVersion>1.0.0.1</DacVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <OutputPath>bin\Release\</OutputPath>
@@ -277,6 +278,7 @@
     <Build Include="ExtendedProperties.sql" />
     <Build Include="Sales\Tables\Table1.sql" />
     <Build Include="Sales\Tables\_testtable2.sql" />
+    <Build Include="Sales\Tables\_testtable3.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="AdventureWorks.nuspec" />
